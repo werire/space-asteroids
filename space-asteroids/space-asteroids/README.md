@@ -92,10 +92,6 @@ prostych kształtów wektorowych. Obrazy są wczytywane i skalowane
 tylko raz na dany rozmiar (cache w `src/utils/asset_loader.py`) -
 nigdy wewnątrz pętli gry, zgodnie z wymogiem dbania o wydajność.
 
-## Autor
-
-Projekt wykonany samodzielnie (praca indywidualna, bez zespołu).
-
 ## Możliwe rozszerzenia (na przyszłość)
 
 - Power-upy (tarcza, potrójny strzał)
