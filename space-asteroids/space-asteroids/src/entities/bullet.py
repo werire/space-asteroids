@@ -1,4 +1,4 @@
-"""The Bullet entity - fired by the ship, destroys asteroids on contact."""
+"""Куля випущенa кораблем знищує астероїди при зіткненні"""
 import pygame
 
 from src.settings import BULLET_LIFETIME, BULLET_RADIUS, WHITE
