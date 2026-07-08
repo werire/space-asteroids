@@ -1,6 +1,6 @@
-"""Interface that every game state (menu, gameplay, game over) must
-implement. This is the "state pattern" mentioned in the grading
-criteria: menu / gameplay / end screen are fully separate objects."""
+"""Інтерфейс який повинен реалізовувати кожен стан гри меню, ігровий процес, кінець гри
+Це той самий шаблон станів про який йдеться в критеріях оцінювання
+меню ігровий процес та екран завершення гри є повністю окремими об’єктами"""
 
 
 class BaseState:
