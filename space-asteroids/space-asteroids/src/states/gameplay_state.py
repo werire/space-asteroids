@@ -1,9 +1,8 @@
-"""The main gameplay state: ship, bullets, asteroids, score and lives.
-
-Notice how this class only *coordinates* entities - the actual rules
-for how a ship moves, how an asteroid splits, or whether two circles
-collide, live in their own dedicated files. This is the
-"logic separated from presentation" requirement.
+"""
+Основні ігрові об’єкти корабель, кулі, астероїди, рахунок та життя правила
+руху корабля, розпаду астероїда або зіткнення двох кіл
+записані в окремих файлах Це і є
+вимога відокремлення логіки від представлення
 """
 import pygame
 
