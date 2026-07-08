@@ -1,6 +1,6 @@
-"""Unit tests for the pure collision-detection logic.
+"""Модульні тести для чистої логіки виявлення зіткнень
 
-Run with:
+Запустити за допомогою
     pytest
 """
 from src.utils.collision import circles_collide
