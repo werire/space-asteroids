@@ -1,4 +1,4 @@
-"""Unit tests for Asteroid: splitting behaviour and error handling."""
+"""Модульні тести для Asteroid розділення поведінки та обробка помилок"""
 import pytest
 
 from src.entities.asteroid import Asteroid
