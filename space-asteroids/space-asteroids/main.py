@@ -1,6 +1,6 @@
-"""Entry point for the Space Asteroids game.
+"""Початкова сторінка Space Asteroids
 
-Run with:
+Запустити можн за допомогою команди
     python main.py
 """
 import pygame
