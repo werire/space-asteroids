@@ -1,6 +1,6 @@
-"""The player's ship. Handles its own movement, rotation, shooting
-cooldown and drawing. The gameplay state decides *when* to call these
-methods, but the ship decides *how* it moves."""
+"""Корабель гравця керує власним переміщенням, обертанням,
+часом відновлення стрільби та візуалізацією стан ігрового процесу визначає, коли викликати ці
+методи, але саме корабель вирішує, як він рухається"""
 import pygame
 
 from src.settings import (
