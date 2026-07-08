@@ -1,9 +1,9 @@
-"""The Asteroid entity.
+"""Об’єкт Астероїд.
 
-An asteroid only knows about itself: its own position, movement and
-shape. It has no idea about the ship, bullets or the score - that
-logic lives in the gameplay state. This separation is what lets us
-add a new enemy type later without touching this file at all.
+Астероїд знає лише про себе: про своє положення, рух і
+форму. Він не має уявлення про корабель, кулі чи рахунок — ця
+логіка міститься у стані ігрового процесу. Саме таке розділення дозволяє нам
+пізніше додавати нові типи ворогів, взагалі не торкаючись цього файлу
 """
 import math
 import random
